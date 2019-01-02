@@ -1,0 +1,7 @@
+C:\Users\Moi\Documents\MaPremiereApplication\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.exe.config
+C:\Users\Moi\Documents\MaPremiereApplication\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.exe
+C:\Users\Moi\Documents\MaPremiereApplication\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.pdb
+C:\Users\Moi\Documents\MaPremiereApplication\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.csprojAssemblyReference.cache
+C:\Users\Moi\Documents\MaPremiereApplication\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Documents\MaPremiereApplication\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.exe
+C:\Users\Moi\Documents\MaPremiereApplication\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.pdb
