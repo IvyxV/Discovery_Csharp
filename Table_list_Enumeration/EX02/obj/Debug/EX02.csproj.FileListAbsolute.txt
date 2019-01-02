@@ -1,0 +1,7 @@
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\EX02\bin\Debug\EX02.exe.config
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\EX02\bin\Debug\EX02.exe
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\EX02\bin\Debug\EX02.pdb
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\EX02\obj\Debug\EX02.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\EX02\obj\Debug\EX02.exe
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\EX02\obj\Debug\EX02.pdb
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\EX02\obj\Debug\EX02.csprojAssemblyReference.cache

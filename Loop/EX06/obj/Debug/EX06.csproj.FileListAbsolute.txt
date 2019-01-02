@@ -1,0 +1,6 @@
+C:\Users\Moi\Documents\Discovery_Csharp\Loop\EX06\obj\Debug\EX06.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Documents\Discovery_Csharp\Loop\EX06\bin\Debug\EX06.exe.config
+C:\Users\Moi\Documents\Discovery_Csharp\Loop\EX06\bin\Debug\EX06.exe
+C:\Users\Moi\Documents\Discovery_Csharp\Loop\EX06\bin\Debug\EX06.pdb
+C:\Users\Moi\Documents\Discovery_Csharp\Loop\EX06\obj\Debug\EX06.exe
+C:\Users\Moi\Documents\Discovery_Csharp\Loop\EX06\obj\Debug\EX06.pdb

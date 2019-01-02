@@ -1,0 +1,7 @@
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\Table_list_Enumeration\bin\Debug\Table_list_Enumeration.exe.config
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\Table_list_Enumeration\bin\Debug\Table_list_Enumeration.exe
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\Table_list_Enumeration\bin\Debug\Table_list_Enumeration.pdb
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\Table_list_Enumeration\obj\Debug\Table_list_Enumeration.csprojAssemblyReference.cache
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\Table_list_Enumeration\obj\Debug\Table_list_Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\Table_list_Enumeration\obj\Debug\Table_list_Enumeration.exe
+C:\Users\Moi\Documents\Discovery_Csharp\Table_list_Enumeration\Table_list_Enumeration\obj\Debug\Table_list_Enumeration.pdb

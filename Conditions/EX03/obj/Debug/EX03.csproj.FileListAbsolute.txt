@@ -1,0 +1,7 @@
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\EX03\obj\Debug\EX03.csprojAssemblyReference.cache
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\EX03\obj\Debug\EX03.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\EX03\bin\Debug\EX03.exe.config
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\EX03\bin\Debug\EX03.exe
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\EX03\bin\Debug\EX03.pdb
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\EX03\obj\Debug\EX03.exe
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\EX03\obj\Debug\EX03.pdb

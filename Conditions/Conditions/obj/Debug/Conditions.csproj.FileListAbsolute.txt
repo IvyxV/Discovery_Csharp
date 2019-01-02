@@ -1,0 +1,7 @@
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\Conditions\obj\Debug\Conditions.csprojAssemblyReference.cache
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\Conditions\obj\Debug\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\Conditions\bin\Debug\Conditions.exe.config
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\Conditions\bin\Debug\Conditions.exe
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\Conditions\bin\Debug\Conditions.pdb
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\Conditions\obj\Debug\Conditions.exe
+C:\Users\Moi\Documents\Discovery_Csharp\Conditions\Conditions\obj\Debug\Conditions.pdb
