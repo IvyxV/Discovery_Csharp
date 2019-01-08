@@ -11,43 +11,50 @@ namespace TP
     {
         static void Main(string[] args)
         {
-            float weight = 0, height = 0, IMC = 0;
-            bool weightOK = false, heightOK = false;
+            float weight = 0;
+            float height = 0;
+            float IMC = 0;
 
+            bool weightOK = false, heightOK = false;
             while (weightOK != true)//Vérif poids possible.
             {
                 if (weight <= 0 || weight > 700)
                 {
                     Console.WriteLine("Merci de saisir votre poids en Kg");
-                    float.TryParse(Console.ReadLine(), out weight);
+                    if (!(float.TryParse(Console.ReadLine(), out weight)))//Vérif saisie user.
+                    {
+                        Console.WriteLine("ERREUR");
+                    }
                 }
                 else
                 {
                     weightOK = true;
                 }
             }
-            while (heightOK != true)//Vérif Taile possible
+            while (heightOK != true)//Vérif Taile possible.
             {
                 if (height <= 0 || height > 3)
                 {
                     Console.WriteLine("Merci de saisir votre taille en mètre");
-                    float.TryParse(Console.ReadLine(), out height);
+                    if (!(float.TryParse(Console.ReadLine(), out height)))//Vérif saisie user.
+                    {
+                        Console.WriteLine("ERREUR");
+                    }
                 }
                 else
                 {
                     heightOK = true;
                 }
             }
-            IMC = weight / (height * height);//Calcul IMC
-            if (IMC < 500)//Vérif IMC possible
+            IMC = weight / (height * height);//Calcul IMC.
+            if (IMC < 500)//Vérif IMC possible.
             {
                 Console.WriteLine("Votre indice de masse corporelle est de " + IMC + ".");
             }
             else
             {
-                Console.WriteLine("Votre indice de masse corporelle est supérieur à 500.");
+                Console.WriteLine("Votre indice de masse corporelle est supérieur ou égale à 500.");
             }
-
             if (IMC < 16.5)//Toutes les conditions suivantes servent à donner les interprétations de l'IMC de l'utilisateur.
             {
                 Console.WriteLine("Dénutrition");
